@@ -1,4 +1,5 @@
-### Hello there , a swiss application development student👋
+### Hello there👋
+# Im a swiss application development student
 
 <!--
 **shirin197/shirin197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hello there👋
 #### 
-#### Working at Intel:)
+
 
 
 <!--

@@ -1,8 +1,4 @@
 ### Hi, im @shirin197👋
-#### - i  learning Computer Science
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin197&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![BlueYodaCookies (2)](https://user-images.githubusercontent.com/73479005/114016673-5f233e80-986b-11eb-96ae-631c6f9ac93f.png)
 
 
@@ -19,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin197&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->

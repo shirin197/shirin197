@@ -1,5 +1,5 @@
-### Hello there👋
-#### 
+### Hi, im @shirin197👋
+#### Learning Computer Science
 
 ![BlueYodaCookies (2)](https://user-images.githubusercontent.com/73479005/114016673-5f233e80-986b-11eb-96ae-631c6f9ac93f.png)
 

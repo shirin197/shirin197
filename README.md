@@ -1,5 +1,6 @@
 ### Hi, im @shirin197👋
-![BlueYodaCookies (2)](https://user-images.githubusercontent.com/73479005/114016673-5f233e80-986b-11eb-96ae-631c6f9ac93f.png)
+![readme_github](https://user-images.githubusercontent.com/73479005/114162940-e3d49200-9929-11eb-96ee-ecc13c1bc3ff.png)
+
 
 
 <!--

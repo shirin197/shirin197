@@ -1,5 +1,5 @@
 ### Hi, im @shirin197👋
-![readme_github](https://user-images.githubusercontent.com/73479005/114162940-e3d49200-9929-11eb-96ee-ecc13c1bc3ff.png)
+
 
 
 

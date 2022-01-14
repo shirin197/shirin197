@@ -1,6 +1,5 @@
 ### in work!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin197&theme=prussian)
 <!--
 **shirin197/shirin197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
